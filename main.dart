@@ -1,5 +1,5 @@
 void main() {
-  print(somaDivisao(11));
+  print(somaDivisao(10));
 }
 
 // a função deve receber um inteiro por parametro [number]
