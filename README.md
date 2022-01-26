@@ -13,7 +13,7 @@ Descrição: - Implemente uma função que receba um número inteiro positivo e 
 [fabioyura/teste1 (github.com)](https://github.com/fabioyura/teste1)
 
 
-## Entrar na pasta TesteTecnico
+## Entrar na pasta Teste1
 cd teste1
 
 ## Executar a aplicação
